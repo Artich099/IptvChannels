@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U "https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/as.xml,https://iptv-org.github.io/epg/guides/ad.xml"
 #EXTINF:26, https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
 #EXTINF:0,https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
 #EXTINF:7402, https://bk2-hls.kinokrad.co/hls/Luter.2003.HDRip/playlist.m3u8
@@ -350,16 +350,16 @@ https://sc.id-tv.kz:443/GaukharTV_34_35.m3u8
 #EXTINF:0,Gakku TV
 https://sc.id-tv.kz/Gakku_34_35.m3u8
 #EXTINF:0,Qhttps://qebele.tv/live/stream/index.m3u8
-#EXTINF:0,T¸rkmenistan
+#EXTINF:0,T√ºrkmenistan
 https://alpha.tv.online.tm/legacyhls/ch007_400/index.m3u8
 #EXTINF:0,Altyn Asyr
 https://alpha.tv.online.tm/legacyhls/ch001_400/index.m3u8
-#EXTINF:0,›ahttps://alpha.tv.online.tm/legacyhls/ch002_400/index.m3u8
+#EXTINF:0,√ùahttps://alpha.tv.online.tm/legacyhls/ch002_400/index.m3u8
 #EXTINF:0,Miras tva.org.ua
 https://alpha.tv.online.tm/legacyhls/ch003_400/index.m3u8
-#EXTINF:0,T¸rkmenistan Sport
+#EXTINF:0,T√ºrkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004_400/index.m3u8
-#EXTINF:0,T¸rkmen owazy
+#EXTINF:0,T√ºrkmen owazy
 https://alpha.tv.online.tm/legacyhls/ch005_400/index.m3u8
 #EXTINF:0,Ahttps://alpha.tv.online.tm/legacyhls/ch006_400/index.m3u8
 #EXTINF:0,CH_1
@@ -832,7 +832,7 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:0,Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:0,BriÁ ve SatranÁ TV
+#EXTINF:0,Bri√ß ve Satran√ß TV
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:0,Alanya Posta TV
 http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
@@ -841,11 +841,11 @@ http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
 https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
 #EXTINF:0,Finest TV
 http://media.finest.tv/hls/live.m3u8
-#EXTINF:0,FTV T¸rk
+#EXTINF:0,FTV T√ºrk
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0,KANAL 3
 http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/iptvdelisi.m3u8
-#EXTINF:0,OG‹N TV
+#EXTINF:0,OG√úN TV
 https://s01.vpis.io/ogun/ogun.m3u8
 #EXTINF:0,Sariyer TV
 http://s01.vpis.io/sariyer/sariyer.m3u8
@@ -855,7 +855,7 @@ http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8
 #EXTINF:0,TV 52 alt2
 https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
-#EXTINF:0,UÁankuhttps://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:0,U√ßankuhttps://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:0,MC EU TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:0,https://iptv-hls.idc.md/hls/2/live2.m3u8
